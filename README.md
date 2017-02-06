@@ -1,13 +1,19 @@
 # generals.io Bots 
 and examples and clients
 
-## NodeJS
-
+## JS
+- [NodeJS example](https://github.com/vzhou842/generals.io-Node.js-Bot-example)
+- [generalsAI](https://github.com/Szpadel/generalsAI)
+- [generals client](https://github.com/pfista/generals)
 
 ## Python
-- [client](https://github.com/toshima/)
-- 
 
-## C#
+- [generalsio](https://github.com/toshima/)
+- [generals-bot](https://github.com/harrischristiansen/generals-bot)
+- [generals.io-python-bot-TNT](https://github.com/tim-hub/generals.io-python-bot-TNT)
 
-[CC BY-SA 4.0](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi2y-3r-vrRAhVBJpQKHbRiBxEQFggjMAI&url=https%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F4.0%2Flegalcode&usg=AFQjCNGdE87TXhThkAvONyc1LJ2m5u4wIQ)
+## C++++ (c sharp)
+- [C# example](https://github.com/cpayne22/generals.io-c-sharp-Bot-example)
+
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
